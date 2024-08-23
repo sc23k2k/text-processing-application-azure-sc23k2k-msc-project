@@ -24,4 +24,4 @@ host.json: This file is part of the Azure Functions configuration and is used to
 requirements.txt: This file lists the Python dependencies required for the functions in the project. It ensures that the correct versions of libraries are installed when setting up the environment or deploying the functions.
 
 Multimedia Files
-Recorded Video Files (23.08.2024_17.04.05_REC.mp4 and 23.08.2024_17.11.36_REC.mp4): These videos  contain demo related to the project. 
+Recorded Video Files (23.08.2024_17.04.05_REC.mp4 and 23.08.2024_17.11.36_REC.mp4): These videos  contain demo related to the project..
